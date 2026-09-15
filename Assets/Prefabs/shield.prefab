@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 4029166452365906094}
   m_Layer: 0
   m_Name: shield
-  m_TagString: Untagged
+  m_TagString: Shields
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -341,4 +341,5 @@ MonoBehaviour:
   maxSize: 0.5
   minSize: 0.1
   minSpeed: 50
-  maxSpeed: 300
+  maxSpeed: 150
+  maxspinSpeed: 10
